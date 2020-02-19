@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "EnchantingGame", "EnchantingGame.pyproj", "{13E314B5-0AB2-492C-9C37-A14D477BEC4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13E314B5-0AB2-492C-9C37-A14D477BEC4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13E314B5-0AB2-492C-9C37-A14D477BEC4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {860B0D91-416A-4857-A6D0-200853BA381E}
+	EndGlobalSection
+EndGlobal
